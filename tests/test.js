@@ -1,3 +1,5 @@
+console.log('Test running here :)');
+
 (function(){ 
     var net = require("net"),
         cp = require("child_process"),
